@@ -2,6 +2,11 @@ body {
 	text-align: center;
 }
 
+.index {
+	border: 5px solid blueviolet;
+	margin: 0;
+}
+
 h2, a {
 	color: blueviolet;
 }
